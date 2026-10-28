@@ -1,0 +1,21 @@
+{
+  "name": "stock-market-prediction-dashboard",
+  "version": "1.0.0",
+  "description": "Stock Market Price Prediction & Analysis Dashboard with Streamlit, Plotly, and Machine Learning",
+  "main": "app.py",
+  "scripts": {
+    "dev": "node dev.js",
+    "start": "node dev.js",
+    "serve": "node dev.js",
+    "test": "node dev.js --test"
+  },
+  "keywords": [
+    "stock-prediction",
+    "machine-learning",
+    "streamlit",
+    "data-science",
+    "technical-indicators"
+  ],
+  "author": "",
+  "license": "MIT"
+}
